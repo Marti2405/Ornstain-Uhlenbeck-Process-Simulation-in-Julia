@@ -55,3 +55,12 @@ with ~~ \theta = 0.7, ~~
 <br>
 
 *Number of Simulations = 10*
+
+<br>
+
+<br>
+
+# Author
+Marti JIMENEZ : [@Marti2405](https://github.com/Marti2405)
+
+Date : 07/2023
