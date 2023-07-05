@@ -17,15 +17,15 @@ using Random, Plots
 
 theta = 0.7
 mu = 1.5
-sigma = 0.5
+sigma = 0.4
 
 
 
 ## Parameters Simulation
 
 nb_simu = 10 # number of simulations
-t_init = 3
-t_end = 7
+t_init = 0
+t_end = 10
 N = 1000 # Number of grid points
 dt = (t_end-t_init)/N
 t = t_init:dt:t_end
