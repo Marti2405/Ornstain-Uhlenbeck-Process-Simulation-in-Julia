@@ -42,11 +42,13 @@ To run any file use this command in terminal :
 Here you can see the Resulting Plot for the following SDE:
 
 ```math
-dx_{t}=\theta (\mu -x_{t})\,dt+\sigma \,dW_{t} 
-with \theta = 0.7
-\mu = 1.5
-\sigma = 0.5
-number_of_simulations = 10
+dx_{t}=\theta (\mu -x_{t})\,dt+\sigma \,dW_{t}
+```
+```math
+with ~~ \theta = 0.7, ~~
+\mu = 1.5, ~~
+\sigma = 0.5, ~~
+numberOfSimulations = 10
 ```
 <br>
 
