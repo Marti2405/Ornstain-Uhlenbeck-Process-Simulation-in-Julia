@@ -20,18 +20,19 @@ The programming language used is Julia.
 
 To run this code you will need Julia installed in your pc. You can download it here : https://julialang.org/downloads/
 
-This code uses 1 Julia package : Plots
+This code uses 2 Julia packages : Plots and Random
 
-To install this packages run this commands in the Julia terminal :
+If the packages are not already installed run this commands in the Julia terminal :
 
 ```Julia
   using Pkg
   Pkg.add("Plots")
+  Pkg.add("Random")
 ```
 
 ## Run the code
 
-To run any file use this command in terminal :
+To run any file use this command in the terminal :
 
 ```Cmd
   julia /path/to/file.jl
