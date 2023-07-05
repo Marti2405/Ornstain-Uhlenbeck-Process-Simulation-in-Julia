@@ -47,9 +47,11 @@ dx_{t}=\theta (\mu -x_{t})\,dt+\sigma \,dW_{t}
 ```math
 with ~~ \theta = 0.7, ~~
 \mu = 1.5, ~~
-\sigma = 0.5, ~~
-numberOfSimulations = 10
+\sigma = 0.4
 ```
 <br>
 
 ![Plot](./Ornstain-Uhlenbeck-Process_Plot.png) 
+<br>
+
+*Number of Simulations = 10*
